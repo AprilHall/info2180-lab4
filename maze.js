@@ -93,7 +93,7 @@ function restart(){
 	}
 }
 
-/*
+
 //excercise 5
 var bounds;
 var begin;
@@ -157,7 +157,3 @@ function restart(){
 			bounds[x].className = "boundary";
 	}
 }
-
-
-//excercise 6
-*/
